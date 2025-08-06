@@ -11,7 +11,6 @@
 `React.js` · `Next.js` · `Node.js` · `MongoDB` · `MySQL` · `TypeScript` · `AWS` · `Java`
 
 ---
----
 
 ## 📈 GitHub Stats
 
