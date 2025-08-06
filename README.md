@@ -1,23 +1,16 @@
 # 👋 Hi, I’m Amandeep Singh
 
-**💼 Role:** Aspiring Software Developer Intern  
-**🎓 Education:** BCA @ Baba Mast Nath University, Rohtak (3rd Year)  
-**📫 Email:** karfamily202@gmail.com  
-**🌐 Portfolio / Projects:**  
-- [AI Job Tracker](https://job-tracker-nine-henna.vercel.app/)  
-- [Opportunity Hub](https://opportunity-hub-nine.vercel.app/)  
+**💼 Aspiring Software Developer Intern**  
+🎓 BCA @ Baba Mast Nath University (3rd Year)  
+📧 karfamily202@gmail.com   
+📌 [GitHub](https://github.com/Amandeep732) | [LeetCode](https://leetcode.com/u/achaltanwar6/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+`React.js` · `Next.js` · `Node.js` · `MongoDB` · `MySQL` · `TypeScript` · `AWS` · `Java`
 
-- **Languages:** Python, Java, JavaScript, TypeScript  
-- **Frontend:** HTML, React.js, Next.js  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Databases:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Postman, VS Code  
-- **Cloud & Deployment:** AWS (EC2, S3), Firebase, Vercel  
-
+---
 ---
 
 ## 📈 GitHub Stats
@@ -29,41 +22,13 @@
 
 ---
 
-## 🔭 Projects
-
-- [🧠 AI Job Tracker](https://job-tracker-nine-henna.vercel.app/)  
-  Built using Google Gemini LLM + LangChain, improves interview callback rates with AI suggestions.  
-- [🚀 Opportunity Hub](https://opportunity-hub-nine.vercel.app/)  
-  Aggregates internships, hackathons & contests from multiple platforms using Puppeteer & Cheerio.
+## 🚀 Projects
+- [AI Job Tracker](https://job-tracker-nine-henna.vercel.app/) — Used Gemini LLM to boost resume insights
+- [Opportunity Hub](https://opportunity-hub-nine.vercel.app/) — Scrapes & centralizes internships/hackathons
 
 ---
 
-## 🏆 Achievements
-
-- Solved **300+ LeetCode problems**  
-- Top **25%** in international coding contest  
-- Certified in Full Stack AI Development (Hitesh Choudhary)  
-- Completed DSA Bootcamp (Kunal Kushwaha)
-
----
-
-## 📚 Relevant Courses
-
-- Data Structures & Algorithms  
-- Operating Systems  
-- DBMS  
-- Object-Oriented Programming  
-- Computer Networking  
-- Prompt Engineering
-
----
-
-## 🚀 Currently Learning
-
-- System Design Basics  
-- Advanced SQL Query Optimization  
-- Open Source Contributions
-
----
-
-
+## 🏆 Highlights
+- 300+ LeetCode problems solved  
+- Top 25% in global coding contest  
+- Certified: Full Stack AI (Hitesh Choudhary), DSA (Kunal Kushwaha)
